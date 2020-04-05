@@ -1,0 +1,15 @@
+﻿  Main.cpp
+C:\Users\Ikaru\Desktop\2 сем ооп\дз1\1\1\Source.cpp(38,2): error C2027: использование неопределенного типа "PCS"
+C:\Users\Ikaru\Desktop\2 сем ооп\дз1\1\1\Header.h(5): message : см. объявление "PCS"
+C:\Users\Ikaru\Desktop\2 сем ооп\дз1\1\1\Source.cpp(41,13): error C2027: использование неопределенного типа "PCS"
+C:\Users\Ikaru\Desktop\2 сем ооп\дз1\1\1\Header.h(5): message : см. объявление "PCS"
+C:\Users\Ikaru\Desktop\2 сем ооп\дз1\1\1\Main.cpp(31,26): error C2668: distance: неоднозначный вызов перегруженной функции
+C:\Users\Ikaru\Desktop\2 сем ооп\дз1\1\1\Source.cpp(96,8): message : может быть "double distance(RCS &,RCS &)"
+C:\Users\Ikaru\Desktop\2 сем ооп\дз1\1\1\Header.h(7,8): message : или       "double distance(RCS,RCS)"
+C:\Users\Ikaru\Desktop\2 сем ооп\дз1\1\1\Main.cpp(31,26): message : при попытке сопоставить список аргументов "(RCS, RCS)"
+  Source.cpp
+C:\Users\Ikaru\Desktop\2 сем ооп\дз1\1\1\Source.cpp(38,2): error C2027: использование неопределенного типа "PCS"
+C:\Users\Ikaru\Desktop\2 сем ооп\дз1\1\1\Header.h(5): message : см. объявление "PCS"
+C:\Users\Ikaru\Desktop\2 сем ооп\дз1\1\1\Source.cpp(41,13): error C2027: использование неопределенного типа "PCS"
+C:\Users\Ikaru\Desktop\2 сем ооп\дз1\1\1\Header.h(5): message : см. объявление "PCS"
+  Создание кода...
